@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url( "smile.png" );
+}
+ 
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    border: 5px groove paleturquoise;
+}
+ 
+td{
+    border-top: 1px groove paleturquoise;
+}
+ 
+th{
+    border: 2px solid pink;
+}
+
+newstyle{
+    color: royalblue;
+}
